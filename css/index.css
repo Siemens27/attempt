@@ -1,4 +1,12 @@
-.body{
-    background-color: red;
-    font-size: 33px;
+body {
+  background-color: red;
+  font-size: 33px;
+}
+
+ul {
+  display: flex;
+}
+.list {
+  margin-left: 30px;
+  list-style: none;
 }
